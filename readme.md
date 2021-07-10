@@ -1,0 +1,1 @@
+This spider failed because TAL changed its website in 2020.

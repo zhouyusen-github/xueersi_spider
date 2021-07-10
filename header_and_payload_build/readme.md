@@ -1,0 +1,7 @@
+#本文件夹用于存放各接口的请求头构建函数
+gradeList_header_and_payload_build.py是请求锁定城市后的年级列表接口（有的城市不是每个年级都有课的）
+classList_header_and_payload_build.py是请求锁定城市，年级后的课程列表接口
+
+
+
+#由于nonce函数不同所以分开文件
